@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Easy-Calculator/static/css/main.0d9f44fa.chunk.css",
+    "main.js": "/Easy-Calculator/static/js/main.a8e66541.chunk.js",
+    "main.js.map": "/Easy-Calculator/static/js/main.a8e66541.chunk.js.map",
+    "runtime-main.js": "/Easy-Calculator/static/js/runtime-main.abdb3d69.js",
+    "runtime-main.js.map": "/Easy-Calculator/static/js/runtime-main.abdb3d69.js.map",
+    "static/js/2.ef5d389e.chunk.js": "/Easy-Calculator/static/js/2.ef5d389e.chunk.js",
+    "static/js/2.ef5d389e.chunk.js.map": "/Easy-Calculator/static/js/2.ef5d389e.chunk.js.map",
+    "index.html": "/Easy-Calculator/index.html",
+    "precache-manifest.35ac8ddec265788b29c6e82d467a86a6.js": "/Easy-Calculator/precache-manifest.35ac8ddec265788b29c6e82d467a86a6.js",
+    "service-worker.js": "/Easy-Calculator/service-worker.js",
+    "static/css/main.0d9f44fa.chunk.css.map": "/Easy-Calculator/static/css/main.0d9f44fa.chunk.css.map"
+  }
+}
