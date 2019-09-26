@@ -1,0 +1,7 @@
+.App {
+  border-radius: 20px;
+  width: 274px;
+  background: rgb(0,113,224);
+  background: linear-gradient(175deg, rgba(0,113,224,1) 26%, rgba(0,224,203,1) 97%);
+}
+
